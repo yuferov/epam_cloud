@@ -20,6 +20,6 @@ def do_action(variables):
         elif isinstance(variable, int):
             print(variable**2)
         else:
-            ("idk")
+            print("idk")
 
 do_action(variables)
