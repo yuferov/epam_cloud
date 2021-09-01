@@ -29,5 +29,6 @@ Obviously the goal is to run all tests without errors. I played around with test
 As with the first homeork you can just run
 
 ```python3 python-homework-2.py```
+
 to test whether it works or throws out any errors.
 
