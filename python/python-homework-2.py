@@ -109,7 +109,7 @@ class TestStringFormatters(unittest.TestCase):
             hex = hex(data.agent_address),
             cpu_7 = data.cpu_data[7],
             mem_used = data.memory_used,
-            load_avg = '{:.2f}'.format(data.load_avg),
+            load_avg = "%.2f" % (data.load_avg),
         )
         formatted = templated.rjust(64, " ")
 
