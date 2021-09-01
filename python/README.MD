@@ -8,9 +8,9 @@ The goal of this homework was to work with different types of data: print data's
 
 After you pullded the repo you can just **cd** into **python** directory and run the script using
 
-'''
-python3 python-homework-1
-'''
+
+```python3 python-homework-1```
+
 and enjoy the output of the command in the terminal of your choice.
 
 ## Python homework 2
@@ -27,8 +27,7 @@ Then each of them is tested using **unittest** class against functions written b
 Obviously the goal is to run all tests without errors. I played around with tests and edited them a little, you can look it up in the history of commits.
 
 As with the first homeork you can just run
-'''
-python3 python-homework-2.py
-'''
+
+```python3 python-homework-2.py```
 to test whether it works or throws out any errors.
 
