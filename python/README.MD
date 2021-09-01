@@ -21,6 +21,7 @@ There are three functions that take data from **Metrics** class and formats the 
 - f-string
 - .format
 - %
+
 formatting types.
 
 Then each of them is tested using **unittest** class against functions written by the lecturer.
